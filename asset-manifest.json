@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/MyFolio/static/css/main.e2b99d99.css",
+    "main.js": "/MyFolio/static/js/main.13fdb6c7.js",
+    "static/js/453.1407b060.chunk.js": "/MyFolio/static/js/453.1407b060.chunk.js",
+    "static/media/banner_bg1.jpg": "/MyFolio/static/media/banner_bg1.255401d2a2d321c5e5ef.jpg",
+    "static/media/footer-bg.jpg": "/MyFolio/static/media/footer-bg.122ccc3f35d16f657cbd.jpg",
+    "static/media/header_girl.png": "/MyFolio/static/media/header_girl.657a06727dd7605ab759.png",
+    "static/media/color-sharp2.png": "/MyFolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/resume.pdf": "/MyFolio/static/media/resume.904507f4c4a4769fa119.pdf",
+    "static/media/skill5.png": "/MyFolio/static/media/skill5.5d526050a3117d4ae429.png",
+    "static/media/CentraNo2-Bold.ttf": "/MyFolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/MyFolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/MyFolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/skill7.jpg": "/MyFolio/static/media/skill7.154bf838bb6124628f31.jpg",
+    "static/media/skill6.jpg": "/MyFolio/static/media/skill6.5bd634ab31d9aa75d21e.jpg",
+    "static/media/skill1.jpg": "/MyFolio/static/media/skill1.b24541ce26e4c0f6782f.jpg",
+    "static/media/skill2.jpg": "/MyFolio/static/media/skill2.41b419d58b3c5ef00772.jpg",
+    "static/media/skill3.jpg": "/MyFolio/static/media/skill3.fd46e4ee204e2f2f6c9e.jpg",
+    "static/media/skill8.jpg": "/MyFolio/static/media/skill8.072cb6df32cc121f53ca.jpg",
+    "static/media/skill9.jpg": "/MyFolio/static/media/skill9.7abd1315672aebb08e7d.jpg",
+    "static/media/skill4.jpg": "/MyFolio/static/media/skill4.beaf55b5e747231a9fa8.jpg",
+    "static/media/contact-img.svg": "/MyFolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/logo-no-background.png": "/MyFolio/static/media/logo-no-background.2a2e650f80b4b364b039.png",
+    "static/media/nav-icon3.svg": "/MyFolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/MyFolio/index.html",
+    "static/media/nav-icon2.svg": "/MyFolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.e2b99d99.css.map": "/MyFolio/static/css/main.e2b99d99.css.map",
+    "main.13fdb6c7.js.map": "/MyFolio/static/js/main.13fdb6c7.js.map",
+    "453.1407b060.chunk.js.map": "/MyFolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2b99d99.css",
+    "static/js/main.13fdb6c7.js"
+  ]
+}
